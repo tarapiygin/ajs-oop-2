@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/le7xd4x0sv6dgmy5?svg=true)](https://ci.appveyor.com/project/tarapiygin/ajs-oop-2)
